@@ -1,6 +1,6 @@
 # use-action-state
 
-A react hook that simplifies usage of <a href="https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions">react server actions</a>. The hook adds error handing and loading state to your server action.
+A react hook that simplifies usage of <a href="https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions">react server actions</a>. The hook adds error handing and loading states.
 
 ## Example
 
